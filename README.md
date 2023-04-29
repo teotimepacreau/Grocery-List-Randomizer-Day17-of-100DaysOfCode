@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/95431443/235296868-0e71bdb7-9187-4447-
 # Project goals
 - use the FormData JS object by accessing the input value with the "get" method
 - users can add item, select a random item and see a toast notification
-- when reloading items stay thanks to localStroage function, a clear function enable to clear items if wanted
+- when reloading items stay thanks to localStorage function, a clear function enable to clear items if wanted
 
 # 🛠️
 VanillaJS, CSS, HTML
