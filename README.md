@@ -1,5 +1,5 @@
-# Interactive form with error alerts
-![Interactive Form demo](https://github.com/teotimepacreau/Interactive-Form-Day-14-of-100DaysOfCode/blob/main/interactiveform.gif)
+# Grocery List with add, randomizer, notif, retrieve and clea function
+
 
 # Project goals
 - use the FormData object by accessing the input vlue with the "get" method
